@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.fb_add{
+    margin:100px;
+}
+.add{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.add_content{
+    
+}
+.mutual_sec{
+    display: flex;
+    align-items: center;
+}

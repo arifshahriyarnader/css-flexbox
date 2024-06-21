@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.menubar_sec{
+    background-color: #ECF0F1;
+    min-height:400px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.leftmenu_link ul{
+    display: flex;
+    gap:40px;
+}
+
+.left

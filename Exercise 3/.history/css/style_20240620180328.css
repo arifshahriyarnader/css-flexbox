@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.youtube_sec{
+    background-color: black;
+    min-height:400px;
+}
+
+.youtube_content{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.left_content{
+    margin-top:80px;
+}
+.right_content{
+    margin-bottom:110px;
+    
+}
+.right_content h3{
+    color:#fff;
+    font-size:30px;
+    font-weight: bold;
+}
+.right_content p{
+    color:#9C9C9C;
+    padding-top: ;
+}
+.view_time{
+    display: flex;
+
+}

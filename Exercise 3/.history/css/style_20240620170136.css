@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .youtube_sec{
+    background-color: black;
+    min-height:400px;
+} */
+
+.youtube_content{
+    display: flex;
+    align-items: center;
+    
+}

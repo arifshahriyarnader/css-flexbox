@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.fb_add{
+    margin
+}
+.add{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

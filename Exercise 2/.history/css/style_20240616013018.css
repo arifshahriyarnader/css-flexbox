@@ -1,0 +1,37 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.fb_add{
+    margin:100px;
+}
+.add{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.add_content{
+    background-color: #fff;
+    border:2px solid #E2E2E2;
+}
+.add_content h2{
+    padding:20px;
+    color:#333;
+}
+.mutual_sec{
+    display: flex;
+    align-items: center;
+}
+
+.mutual_sec img{
+    margin-left: 15px;
+    border-radius: 30px;
+    
+}
+.mutual_sec p{
+    color:#A0A0A0;
+    font-size: 20px;
+    font-weight: bold;
+}

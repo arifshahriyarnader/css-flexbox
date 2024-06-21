@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.follow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px auto;
+}
+/* .follow_content{
+    display: flex;
+    align-items: center;
+} */

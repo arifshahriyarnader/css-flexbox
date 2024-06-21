@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #ECF0F1;
+}
+.menubar_sec{
+    background-color:#333333;
+    min-height: 100px;
+    margin: 70px;
+    display:flex;
+    justify-content: flex-end;
+}
+
+.rightmenu_link ul{
+    display: flex;
+    gap:40px;
+    padding:40px 35px 35px 40px;
+
+}
+
+.rightmenu_link ul li a{
+    color:#fff;
+    font-size:20px;
+    cursor: pointer;  
+}
+.contact_btn{
+    background-color:#4292A3;
+    color:#fff;
+    padding:15px 30px 15px 30px;
+    border: 2px solid #4292A3;
+    border-radius: 20px;
+   
+}
+.center_menu{
+    background-color:#333333;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+}
+.centermenu_link ul{
+    display: flex;
+    gap:40px;
+    padding:40px 35px 35px 40px;
+}
+
+.centermenu_link ul li a{
+    color:#fff;
+    font-size:20px;
+    cursor: pointer;  
+}
+.centercontact_btn{
+    background-color:#4292A3;
+    color:#fff;
+    padding:15px 30px 15px 30px;
+    border: 2px solid #4292A3;
+    border-radius: 20px;
+}
+
+.left_menu{
+    background-color:#333333;
+    min-height: 100px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 70px;
+}
+
+.leftmenu_link ul{
+    display: flex;
+    gap:40px;
+    padding:40px 35px 35px 80px;
+}
+
+.leftmenu_link ul li a{
+    color:#fff;
+    font-size:20px;
+    cursor: pointer;  
+}

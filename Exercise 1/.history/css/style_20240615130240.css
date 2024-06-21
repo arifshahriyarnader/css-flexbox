@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.menubar_sec{
+    background-color: #ECF0F1;
+    min-height:400px;
+    display:flex;
+    justify-content: space-between;
+}
+.first_navbar{
+    background-color:  <div></div>
+    <div class="leftmenu_link">
+        <ul>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+       </div>;
+}
+.leftmenu_link ul{
+    display: flex;
+    gap:40px;
+   
+}

@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.bongo_img{
+    background-image:url("../images/background.jpeg");
+    min-height: 480px;
+    background-size: cover;
+}
+.bongo_heading h1{
+    
+}

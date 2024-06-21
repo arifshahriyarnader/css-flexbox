@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #ECF0F1;
+}
+.menubar_sec{
+    background-color:#333333;
+    min-height: 100px;
+    /* margin: 70px; */
+    padding:7
+    display:flex;
+    justify-content:flex-end;
+}
+
+.leftmenu_link ul{
+    display: flex;
+    gap:40px;
+    /* padding:40px 80px 0px 40px; */
+   
+}
+
+.leftmenu_link ul li a{
+    color:#fff;
+    font-size:20px;
+    cursor: pointer;  
+}

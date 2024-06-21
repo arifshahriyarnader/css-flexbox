@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.follow{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin:30px 60px;
+}
