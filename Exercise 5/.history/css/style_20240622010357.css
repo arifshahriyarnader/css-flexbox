@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.bongo_img{
+    background-image:url("../images/background.jpeg");
+    min-height: 480px;
+    background-size: cover;
+}
+.bongo_heading h1{
+    padding-top: 70px;
+    text-align: center;
+    color: #FF6D34;
+    font-size:70px;
+    font-weight: bold;
+    
+}
+
+.bongo_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bongo_center{
+    color:#fff;
+}
+
+.bongo_sub{
+    display: flex;
+    align
+}

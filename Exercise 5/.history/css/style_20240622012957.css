@@ -34,7 +34,6 @@
 }
 .bongo_center h2{
     color:#fff;
-    font-size: 40px;
     padding-left: 35px;
     padding-top: 20px;
 }
@@ -46,8 +45,6 @@
 }
 .bongo_sub p{
     color: #fff;
-    font-size: 25px;
-    font-weight: bold;
     padding-left: 35px;
     padding-top: 20px;
 }
@@ -58,8 +55,4 @@
 .btn{
     background-color: #FF6D34;
     color: #000000;
-    padding: 15px 50px;
-    font-size: 35px;
-    font-weight: bold;
-    border-radius: 30px;
 }
